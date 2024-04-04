@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\bin\Debug\net8.0\task1.exe
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\bin\Debug\net8.0\task1.deps.json
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\bin\Debug\net8.0\task1.runtimeconfig.json
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\bin\Debug\net8.0\task1.dll
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\bin\Debug\net8.0\task1.pdb
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\task1.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\task1.AssemblyInfo.cs
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\task1.sourcelink.json
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\task1.dll
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\refint\task1.dll
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\task1.pdb
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
+C:\Users\Igor\Desktop\Языки програмирования\C-lesson1\task1\obj\Debug\net8.0\ref\task1.dll
